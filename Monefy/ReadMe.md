@@ -24,7 +24,7 @@ Setup your machine.
 8. Install Cucumber Eclipse plugin
 
 #### Cloning & Importing the Project
-1. Clone the project from ```git clone https://github.com/priyapramod```
+1. Clone the project from ```git clone https://github.com/PriyaPramod/pramod-siddaramaiah.git```
 2. Import the project (Monefy) in Eclipse ```File -> import -> General -> Existing Project into workspace -> Next -> Browse Project Location ```
 3. Now click on ```Finsih``` wait until the Eclipse downloads all the dependencies
 4. Right click on the project maven -> update project -> please wait till the project building completes
